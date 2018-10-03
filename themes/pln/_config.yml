@@ -1,20 +1,15 @@
 menu:
-  主页: /
-  归档: /archives
+  Home: /
+  Archive: /archives
 
-logo: XXX
+logo: ACB
 
 more:
-  友情链接: /links.html
-  Github: https://github.com/XXX/
-  微博: http://weibo.com/XXX
-  知乎: https://www.zhihu.com/people/XXX
-  rss: /rss2.xml
-  关于我: /
+  About Us: /about
 
 about:
-  title: Theme Pln
-  link: https://github.com/gaoryrt/hexo-theme-pln
+  title: Theme ACB
+  link: /
 
 show_toc_bool: true
 
@@ -34,4 +29,4 @@ valine:
 
 excerpt_num: 120
 
-footer_info: © XXX 20xx-2017
+footer_info: © Armorial Communes Basques 2013-2018
